@@ -36,4 +36,4 @@ ITエンジニアとして4年以上、インフラ構築・アプリ開発に�
 ## 📬 お仕事のご依頼
 副業・業務委託のご依頼はクラウドワークスまたは下記からお気軽にどうぞ。
 
-[![CrowdWorks](https://img.shields.io/badge/CrowdWorks-プロフィールを見る-blue?style=flat)]([https://crowdworks.jp/public/employees/6537531?ref=share_url_wkprofile](https://crowdworks.jp/public/employees/6537531?ref=share_url_wkprofile))
+[![CrowdWorks](https://img.shields.io/badge/CrowdWorks-プロフィールを見る-blue?style=flat)](https://crowdworks.jp/public/employees/6537531?ref=share_url_wkprofile)
